@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("w4.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+	opacity: 0.90;
+	min-height:700px;
+	
+}
+
+1, 2{
+	
+	min-height:700px;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	
+}
